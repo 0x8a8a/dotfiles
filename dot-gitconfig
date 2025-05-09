@@ -1,0 +1,9 @@
+[commit]
+    verbose = true
+[core]
+    excludesFile = ~/.gitignore
+[init]
+    defaultBranch = main
+[user]
+    email = 210938436+0x8a8a@users.noreply.github.com
+    name = BaBa
