@@ -4,6 +4,8 @@
     excludesFile = ~/.gitignore
 [init]
     defaultBranch = main
+[merge]
+    tool = vimdiff
 [user]
     email = 210938436+0x8a8a@users.noreply.github.com
     name = BaBa
